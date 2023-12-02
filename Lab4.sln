@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.Ecosystems", "Lab4.Ecosystems\Lab4.Ecosystems.csproj", "{4D8E55B0-59D9-4067-8A99-A0286091E80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.Networks", "Lab4.Networks\Lab4.Networks.csproj", "{DC2EED25-84D3-4711-B0CA-C95D3B985563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.Traffic", "Lab4.Traffic\Lab4.Traffic.csproj", "{D8C4CF4B-0AB0-4F41-8885-0E8E0933764C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8E55B0-59D9-4067-8A99-A0286091E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8E55B0-59D9-4067-8A99-A0286091E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8E55B0-59D9-4067-8A99-A0286091E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8E55B0-59D9-4067-8A99-A0286091E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2EED25-84D3-4711-B0CA-C95D3B985563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2EED25-84D3-4711-B0CA-C95D3B985563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2EED25-84D3-4711-B0CA-C95D3B985563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2EED25-84D3-4711-B0CA-C95D3B985563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C4CF4B-0AB0-4F41-8885-0E8E0933764C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C4CF4B-0AB0-4F41-8885-0E8E0933764C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C4CF4B-0AB0-4F41-8885-0E8E0933764C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C4CF4B-0AB0-4F41-8885-0E8E0933764C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
